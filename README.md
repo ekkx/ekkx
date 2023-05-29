@@ -13,13 +13,13 @@
 </p>
 
 <p align="center"> 
-	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qvco&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qvco&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qvco&count_private=true&show_icons=true&show_icons=true&&hide_border=true&theme=gruvbox" />
+	<img alt="Top Langs" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=qvco&layout=compact&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
 </p>
 	
-<p align="center"> 
+<!-- <p align="center"> 
 	<img src="https://github-profile-trophy.vercel.app/?username=qvco&theme=onedark&column=7" />
-</p>
+</p> -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=qvco&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy) -->
