@@ -25,7 +25,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/qvco">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png" width="35px">
 	 </a>
-	 <a style="margin-left: 10px;" target="_blank" href="https://discord.gg/TuhMzH8Ue2">
+	 <a style="margin-left: 10px;" target="_blank" href="https://discord.gg/DCR6PQapeC">
 		<img src="https://img.icons8.com/doodle/48/discord--v2.png" width="35px">
 	 </a>
 	 <a style="margin-left: 5px;" target="_blank" href="mailto:nikola.desuga@gmail.com">
