@@ -1,16 +1,16 @@
 <html>
 <body>
 
-<div align="center">
+<!-- <div align="center">
 	<h3 align="center">Hi there 👋</h3>
-<!-- <h4 align="center">just a freelance developer, see my <a href="https://github.com/qvco" target="_blank">resume</a> for more</h4> -->
+	<h4 align="center">just a freelance developer, see my <a href="https://github.com/qvco" target="_blank">resume</a> for more</h4>
 </div>
 
 <p align="center">
 	<a href="https://github.com/qvco">
 		<img  src="https://github.com/qvco/qvco/blob/main/assets/images/grid-snake.svg" alt="snake" />
 	</a>
-</p>
+</p> -->
 
 <p align="center"> 
 	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qvco&count_private=true&show_icons=true&show_icons=true&&hide_border=true&theme=gruvbox" />
