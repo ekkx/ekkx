@@ -13,8 +13,8 @@
 </p> -->
 
 <p align="center"> 
-	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qvco&count_private=true&show_icons=true&show_icons=true&&hide_border=true&theme=gruvbox" />
-	<img alt="Top Langs" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=qvco&layout=compact&count_private=true&show_icons=true&theme=gruvbox&hide_border=true" />
+	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=qvco&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=swift" />
+	<img alt="Top Langs" height="150px" src="https://streak-stats.demolab.com/?user=qvco&theme=swift" />
 </p>
 	
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
