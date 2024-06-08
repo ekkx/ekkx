@@ -65,4 +65,4 @@ Credits: [qvco](https://github.com/ekkx) -->
 ```
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/ekkx/ekkx/assets/77382767/55bc133e-5f29-44fe-82b4-0d486294410d');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/ekkx/ekkx/assets/77382767/91245829-a17e-48e3-b68e-b1912a9dd16e');]{x0000}$}
