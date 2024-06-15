@@ -1,17 +1,6 @@
 <html>
 <body>
 
-<!-- <div align="center">
-	<h3 align="center">Hi there 👋</h3>
-	<h4 align="center">just a freelance developer, see my <a href="https://github.com/ekkx" target="_blank">resume</a> for more</h4>
-</div>
-
-<p align="center">
-	<a href="https://github.com/ekkx">
-		<img  src="https://github.com/ekkx/ekkx/blob/main/assets/images/grid-snake.svg" alt="snake" />
-	</a>
-</p> -->
-
 <p align="center"> 
 	<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ekkx&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=swift" />
 	<img alt="Top Langs" height="150px" src="https://streak-stats.demolab.com/?user=ekkx&theme=swift" />
@@ -34,35 +23,6 @@
 	 <a style="margin-left: 10px;"  target="_blank" href="https://jp.quora.com/">
 		<img src="https://img.icons8.com/doodle/48/quora--v1.png" width="35px">
 	 </a>
-<!-- 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-	 </a> -->
-<!--         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/">
-		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-	 </a> -->
-<!-- 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/">
-		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
-	 </a> -->
-<!-- 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/">
-		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
-	 </a> -->
       </div>
 
 </p>
-	
-<!-- <p align="center"> 
-	<img src="https://github-profile-trophy.vercel.app/?username=ekkx&theme=onedark&column=7" />
-</p> -->
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ekkx&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- -----
-Credits: [qvco](https://github.com/ekkx) -->
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; animation: 3.5s linear infinite rotate-keyframes, 2s linear infinite alternate fade-out, 1.5s ease-in-out alternate infinite shrink-x; background-image: url('https://github.com/ekkx/ekkx/assets/77382767/8fcd259c-9e94-4857-a9b3-d6072a8dcf57');]{x0000}$}
-```
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/ekkx/ekkx/assets/77382767/91245829-a17e-48e3-b68e-b1912a9dd16e');]{x0000}$}
