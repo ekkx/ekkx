@@ -31,9 +31,8 @@
 ┌──┤ HOBBIES ├─────────▰▰▰
 │
 ├─▣ Coding
-├─▣ DTM
-├─▣ Skiing
 ├─▣ Piano
+├─▣ Skiing
 │
 └───────────────────────────────▰▰▰
 
@@ -41,4 +40,6 @@
 
 ⏰ Updated on Wed Jul 10 2024
 </pre>
+
+[[Discord](https://discord.com/users/343966734203617283)]
 
