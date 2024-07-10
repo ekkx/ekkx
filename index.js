@@ -45,9 +45,8 @@ const readme = `\
 ┌──┤ HOBBIES ├─────────▰▰▰
 │
 ├─▣ Coding
-├─▣ DTM
-├─▣ Skiing
 ├─▣ Piano
+├─▣ Skiing
 │
 └───────────────────────────────▰▰▰
 
@@ -55,6 +54,8 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toDateString()}
 </pre>
+
+[[Discord](https://discord.com/users/343966734203617283)]
 `
 
 console.log(readme)
