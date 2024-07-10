@@ -28,7 +28,7 @@ const readme = `\
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ backend developer
+├─▣ Backend developer
 ├─▣ <a href="https://ekkxy.com">ekkx's blog (coming soon...)</a>
 │
 └───────────────────────────────▰▰▰
@@ -55,7 +55,7 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toDateString()}
 
-<a href="https://discord.com/users/343966734203617283">[Discord]</a>
+[<a href="https://discord.com/users/343966734203617283">Discord</a>] [<a href="https://twitter.com/ekkxy">Twitter</a>]
 </pre>
 `
 
