@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.x'
+      - name: Update README.md
+        run: node index.js > README.md
+      - name: Commit change & Push
+        run: |
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name 'github-actions[bot]'
+          git commit -am "bot: update README.md"
+          git push
