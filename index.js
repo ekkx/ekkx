@@ -28,6 +28,7 @@ const readme = `\
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ ekkx
+├─▣ backend developer
 ├─▣ <a href="https://ekkxy.com">ekkx's blog (coming soon...)</a>
 │
 └───────────────────────────────▰▰▰
