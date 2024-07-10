@@ -54,9 +54,9 @@ const readme = `\
 ⏳ ${new Date().getFullYear()}: ${progressBarOfYear} ${(progressOfYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toDateString()}
-</pre>
 
-[[Discord](https://discord.com/users/343966734203617283)]
+<a href="https://discord.com/users/343966734203617283">[Discord]</a>
+</pre>
 `
 
 console.log(readme)
