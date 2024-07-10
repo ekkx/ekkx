@@ -33,24 +33,6 @@ const readme = `\
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ LANGUAGES ├─────────▰▰▰
-│
-├─▣ TypeScript
-├─▣ Go
-├─▣ PHP
-├─▣ Java
-├─▣ Python
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ HOBBIES ├─────────▰▰▰
-│
-├─▣ Coding
-├─▣ Piano
-├─▣ Skiing
-│
-└───────────────────────────────▰▰▰
-
 ⏳ ${new Date().getFullYear()}: ${progressBarOfYear} ${(progressOfYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toDateString()}
