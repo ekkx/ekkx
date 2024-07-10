@@ -36,8 +36,6 @@ const readme = `\
 ⏳ ${new Date().getFullYear()}: ${progressBarOfYear} ${(progressOfYear * 100).toFixed(2)} %
 
 ⏰ Updated on ${new Date().toDateString()}
-
-[<a href="https://discord.com/users/343966734203617283">Discord</a>] [<a href="https://twitter.com/ekkxy">Twitter</a>]
 </pre>
 `
 
