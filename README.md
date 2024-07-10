@@ -22,7 +22,5 @@
 ⏳ 2024: { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.32 %
 
 ⏰ Updated on Wed Jul 10 2024
-
-[<a href="https://discord.com/users/343966734203617283">Discord</a>] [<a href="https://twitter.com/ekkxy">Twitter</a>]
 </pre>
 
