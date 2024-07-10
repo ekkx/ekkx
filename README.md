@@ -14,7 +14,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ backend developer
+├─▣ Backend developer
 ├─▣ <a href="https://ekkxy.com">ekkx's blog (coming soon...)</a>
 │
 └───────────────────────────────▰▰▰
@@ -41,6 +41,6 @@
 
 ⏰ Updated on Wed Jul 10 2024
 
-<a href="https://discord.com/users/343966734203617283">[Discord]</a>
+[<a href="https://discord.com/users/343966734203617283">Discord</a>] [<a href="https://twitter.com/ekkxy">Twitter</a>]
 </pre>
 
