@@ -40,7 +40,7 @@
 ⏳ 2024: { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.31 %
 
 ⏰ Updated on Wed Jul 10 2024
-</pre>
 
-[[Discord](https://discord.com/users/343966734203617283)]
+<a href="https://discord.com/users/343966734203617283">[Discord]</a>
+</pre>
 
