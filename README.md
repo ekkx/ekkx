@@ -16,12 +16,12 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ Backend developer
+├─▣ Backend dev from Tokyo
 ├─▣ <a href="https://ekkxy.com">ekkx's blog (coming soon...)</a>
 │
 └───────────────────────────────▰▰▰
 
-⏳ 2024: { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.74 %
+⏳ 2024: { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 52.75 %
 
 ⏰ Updated on Fri Jul 12 2024
 </pre>
