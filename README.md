@@ -15,12 +15,14 @@
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ <a href="https://ekkxy.com">ekkx</a>
+├─▣ ekkx
 ├─▣ Backend dev from Tokyo
+├─▣ <a href="https://ekkxy.com">Blog</a>
+├─▣ <a href="https://discord.com/users/343966734203617283">Discord</a>
 │
 └───────────────────────────────▰▰▰
 
-⏳ 2024: { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.30 %
+⏳ 2024: { ██████████████████▁▁▁▁▁▁▁▁▁▁▁▁ } 61.31 %
 
 ⏰ Updated on Mon Aug 12 2024
 </pre>
