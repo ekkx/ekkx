@@ -32,7 +32,6 @@ const readme = `\
 ├─▣ ekkx
 ├─▣ Backend dev from Tokyo
 ├─▣ <a href="https://ekkxy.com">Blog</a>
-├─▣ <a href="https://discord.com/users/343966734203617283">Discord</a>
 │
 └───────────────────────────────▰▰▰
 
