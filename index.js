@@ -29,9 +29,8 @@ const readme = `\
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ ekkx
+├─▣ <a href="https://ekkxy.com">ekkx</a>
 ├─▣ Backend dev from Tokyo
-├─▣ <a href="https://ekkxy.com">ekkx's blog (coming soon...)</a>
 │
 └───────────────────────────────▰▰▰
 
