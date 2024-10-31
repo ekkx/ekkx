@@ -30,7 +30,7 @@ const readme = `\
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ Backend dev from Tokyo
+├─▣ Backend dev in Tokyo
 ├─▣ <a href="https://ekkxy.com">Blog</a>
 │
 └───────────────────────────────▰▰▰
