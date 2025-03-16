@@ -17,11 +17,11 @@
 │
 ├─▣ ekkx
 ├─▣ Backend dev in Tokyo
-├─▣ <a href="https://ekkxy.com">Blog</a>
+├─▣ <a href="https://xtrz.cc">Blog</a>
 │
 └───────────────────────────────▰▰▰
 
-⏳ 2025: { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.29 %
+⏳ 2025: { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.31 %
 
 ⏰ Updated on Sun Mar 16 2025
 </pre>
