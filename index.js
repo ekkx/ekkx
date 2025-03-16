@@ -31,7 +31,7 @@ const readme = `\
 │
 ├─▣ ekkx
 ├─▣ Backend dev in Tokyo
-├─▣ <a href="https://ekkxy.com">Blog</a>
+├─▣ <a href="https://xtrz.cc">Blog</a>
 │
 └───────────────────────────────▰▰▰
 
