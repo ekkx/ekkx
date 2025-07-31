@@ -3,6 +3,7 @@
 │
 ├─▣ ekkx
 ├─▣ backend developer based in tokyo
+├─▣ clear code, considered interface
 ├─▣ <a href="https://xtrz.cc">blog</a>
 │
 └───────────────────────────────▰▰▰
