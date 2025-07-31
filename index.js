@@ -13,31 +13,17 @@ const progressBarOfYear = generateProgressBar();
 
 const readme = `\
 <pre>
-      ___           ___           ___       ___       ___
-     /\\__\\         /\\  \\         /\\__\\     /\\__\\     /\\  \\
-    /:/  /        /::\\  \\       /:/  /    /:/  /    /::\\  \\
-   /:/__/        /:/\\:\\  \\     /:/  /    /:/  /    /:/\\:\\  \\
-  /::\\  \\ ___   /::\\~\\:\\  \\   /:/  /    /:/  /    /:/  \\:\\  \\
- /:/\\:\\  /\\__\\ /:/\\:\\ \\:\\__\\ /:/__/    /:/__/    /:/__/ \\:\\__\\
- \\/__\\:\\/:/  / \\:\\~\\:\\ \\/__/ \\:\\  \\    \\:\\  \\    \\:\\  \\ /:/  /
-      \\::/  /   \\:\\ \\:\\__\\    \\:\\  \\    \\:\\  \\    \\:\\  /:/  /
-      /:/  /     \\:\\ \\/__/     \\:\\  \\    \\:\\  \\    \\:\\/:/  /
-     /:/  /       \\:\\__\\        \\:\\__\\    \\:\\__\\    \\::/  /
-     \\/__/         \\/__/         \\/__/     \\/__/     \\/__/
-</pre>
-
-<pre>
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ Backend dev in Tokyo
-├─▣ <a href="https://xtrz.cc">Blog</a>
+├─▣ backend developer based in tokyo
+├─▣ <a href="https://xtrz.cc">blog</a>
 │
 └───────────────────────────────▰▰▰
 
 ⏳ ${new Date().getFullYear()}: ${progressBarOfYear} ${(progressOfYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toDateString()}
+updated on ${new Date().toDateString()}
 </pre>
 `
 
