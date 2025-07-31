@@ -23,7 +23,7 @@ const readme = `\
 
 ⏳ ${new Date().getFullYear()}: ${progressBarOfYear} ${(progressOfYear * 100).toFixed(2)} %
 
-updated on ${new Date().toDateString()}
+updated on ${new Date().toDateString().toLowerCase()}
 </pre>
 `
 
