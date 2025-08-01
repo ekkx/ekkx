@@ -37,7 +37,7 @@ func main() {
 	data := TemplateData{
 		Year:        year,
 		ProgressBar: progressBar,
-		Percent:     strconv.FormatFloat(progress*100, 'f', 1, 64),
+		Percent:     strconv.FormatFloat(progress*100, 'f', 2, 64),
 		Day:         day,
 		TotalDays:   totalDays,
 	}
