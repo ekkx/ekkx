@@ -2,8 +2,7 @@
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ backend developer based in tokyo
-├─▣ clear code, thoughtful ui/ux
+├─▣ full-stack developer based in tokyo
 ├─▣ <a href="https://xtrz.cc">blog</a>
 │
 └───────────────────────────────▰▰▰
