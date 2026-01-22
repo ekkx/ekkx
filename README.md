@@ -2,7 +2,7 @@
 ┌──┤ whoami ├─────────▰▰▰
 │
 ├─▣ ekkx
-├─▣ full-stack developer based in tokyo
+├─▣ full-stack dev @ japan
 ├─▣ <a href="https://xtrz.cc">blog</a>
 │
 └───────────────────────────────▰▰▰
