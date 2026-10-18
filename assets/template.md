@@ -3,7 +3,7 @@
 │
 ├─▣ ekkx
 ├─▣ full-stack dev @ japan
-├─▣ <a href="https://zure.cc">blog</a>
+├─▣ <a href="https://aschrra.com">blog</a>
 │
 └───────────────────────────────▰▰▰
 
